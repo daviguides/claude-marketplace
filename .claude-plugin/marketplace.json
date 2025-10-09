@@ -1,8 +1,13 @@
 {
   "name": "daviguides-marketplace",
+  "metadata": {
+    "version": "0.1.0",
+    "description": "Personal Claude Code marketplace featuring Python development plugins for best practices, documentation standards, and Zen of Python enforcement"
+  },
   "owner": {
     "name": "Davi Guides",
-    "email": "daviguides@example.com"
+    "email": "davi.guides@tiphareth.com.br",
+    "url": "https://github.com/daviguides"
   },
   "plugins": [
     {
