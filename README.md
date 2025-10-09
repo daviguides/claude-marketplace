@@ -17,7 +17,7 @@ Enhanced code documentation with semantic docstring support.
 
 **Install:**
 ```bash
-/plugin install semantic-docstrings@daviguides-marketplace
+/plugin install semantic-docstrings@daviguides
 ```
 
 **Repository:** [daviguides/semantic-docstrings](https://github.com/daviguides/semantic-docstrings)
@@ -29,7 +29,7 @@ Python development following Zen of Python principles and best practices.
 
 **Install:**
 ```bash
-/plugin install code-zen@daviguides-marketplace
+/plugin install code-zen@daviguides
 ```
 
 **Repository:** [daviguides/code-zen](https://github.com/daviguides/code-zen)
