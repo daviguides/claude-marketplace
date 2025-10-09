@@ -7,7 +7,7 @@ Personal marketplace for Claude Code plugins focused on Python development best 
 Add this marketplace to your Claude Code:
 
 ```bash
-/plugin marketplace add daviguides/claude-marketplace
+/plugin marketplace add https://github.com/daviguides/claude-marketplace.git
 ```
 
 ## 🔌 Available Plugins
