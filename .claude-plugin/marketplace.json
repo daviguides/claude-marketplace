@@ -13,16 +13,16 @@
     {
       "name": "semantic-docstrings",
       "source": {
-        "source": "github",
-        "repo": "daviguides/semantic-docstrings"
+        "source": "git",
+        "repo": "https://github.com/daviguides/semantic-docstrings.git"
       },
       "description": "Semantic docstrings plugin for enhanced code documentation"
     },
     {
       "name": "code-zen",
       "source": {
-        "source": "github",
-        "repo": "daviguides/code-zen"
+        "source": "git",
+        "repo": "https://github.com/daviguides/code-zen.git"
       },
       "description": "Code Zen plugin for Python development best practices"
     }
