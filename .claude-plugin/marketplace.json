@@ -25,6 +25,14 @@
         "url": "https://github.com/daviguides/code-zen.git"
       },
       "description": "Code Zen plugin for Python development best practices"
+    },
+    {
+      "name": "ymd-spec",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/daviguides/ymd-spec.git"
+      },
+      "description": "YMD/PMD format specification for structured, modular AI prompts"
     }
   ]
 }
