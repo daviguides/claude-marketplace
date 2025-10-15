@@ -11,12 +11,12 @@
   },
   "plugins": [
     {
-      "name": "semantic-docstrings",
+      "name": "gradient",
       "source": {
         "source": "url",
-        "url": "https://github.com/daviguides/semantic-docstrings.git"
+        "url": "https://github.com/daviguides/gradient.git"
       },
-      "description": "Semantic docstrings plugin for enhanced code documentation"
+      "description": "A proposal for a layered context architecture"
     },
     {
       "name": "code-zen",
@@ -25,6 +25,14 @@
         "url": "https://github.com/daviguides/code-zen.git"
       },
       "description": "Code Zen plugin for Python development best practices"
+    },
+    {
+      "name": "semantic-docstrings",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/daviguides/semantic-docstrings.git"
+      },
+      "description": "Semantic docstrings plugin for enhanced code documentation"
     },
     {
       "name": "ymd-spec",
