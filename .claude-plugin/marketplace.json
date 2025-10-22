@@ -43,7 +43,7 @@
       "description": "YMD/PMD format specification for structured, modular AI prompts"
     },
     {
-      "name": "ymd-spec",
+      "name": "product-scaffold",
       "source": {
         "source": "url",
         "url": "https://github.com/daviguides/product-scaffold.git"
