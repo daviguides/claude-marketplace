@@ -41,6 +41,14 @@
         "url": "https://github.com/daviguides/ymd-spec.git"
       },
       "description": "YMD/PMD format specification for structured, modular AI prompts"
+    },
+    {
+      "name": "ymd-spec",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/daviguides/product-scaffold.git"
+      },
+      "description": "Provides standards and automation for product documentation across the entire product lifecycle"
     }
   ]
 }
