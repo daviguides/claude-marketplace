@@ -54,7 +54,7 @@
       "name": "probe",
       "source": {
         "source": "url",
-        "url": "https://github.com/daviguides/product-probe.git"
+        "url": "https://github.com/daviguides/probe.git"
       },
       "description": "A multi-spectrum research context architecture for deep technical investigation."
     }
