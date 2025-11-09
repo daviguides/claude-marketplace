@@ -49,6 +49,14 @@
         "url": "https://github.com/daviguides/product-scaffold.git"
       },
       "description": "Provides standards and automation for product documentation across the entire product lifecycle"
+    },
+    {
+      "name": "probe",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/daviguides/product-probe.git"
+      },
+      "description": "A multi-spectrum research context architecture for deep technical investigation."
     }
   ]
 }
