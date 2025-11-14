@@ -57,6 +57,14 @@
         "url": "https://github.com/daviguides/probe.git"
       },
       "description": "A multi-spectrum research context architecture for deep technical investigation."
+    },
+    {
+      "name": "synthesis",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/daviguides/synthesis.git"
+      },
+      "description": "Multi-research comparison and synthesis tool - compares N Probe researches and generates consolidated decision synthesis"
     }
   ]
 }
