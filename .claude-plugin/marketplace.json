@@ -65,6 +65,15 @@
         "url": "https://github.com/daviguides/synthesis.git"
       },
       "description": "Multi-research comparison and synthesis tool - compares N Probe researches and generates consolidated decision synthesis"
+    },
+    {
+      "name": "ymd-py",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/daviguides/ymd-py.git"
+      },
+      "description": "Python integration guide for YMD/PMD formats - comprehensive documentation, patterns, and tools for using ymd-prompt library"
     }
+    
   ]
 }
