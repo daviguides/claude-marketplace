@@ -11,6 +11,14 @@
   },
   "plugins": [
     {
+      "name": "arche",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/daviguides/arche.git"
+      },
+      "description": "Essential behavioral principles for Claude Code"
+    },
+    {
       "name": "gradient",
       "source": {
         "source": "url",
