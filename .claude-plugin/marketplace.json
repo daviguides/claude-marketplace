@@ -81,7 +81,14 @@
         "url": "https://github.com/daviguides/ymd-py.git"
       },
       "description": "Python integration guide for YMD/PMD formats - comprehensive documentation, patterns, and tools for using ymd-prompt library"
+    },
+    {
+      "name": "dao",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/daviguides/dao.git"
+      },
+      "description": "The natural way of task execution - Daoist workflow management for Claude Code"
     }
-    
   ]
 }
