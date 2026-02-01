@@ -19,12 +19,12 @@
             "description": "Essential behavioral principles for Claude Code"
         },
         {
-            "name": "gradient",
+            "name": "dao",
             "source": {
                 "source": "url",
-                "url": "https://github.com/daviguides/gradient.git"
+                "url": "https://github.com/daviguides/dao.git"
             },
-            "description": "A proposal for a layered context architecture"
+            "description": "The natural way of task execution - Daoist workflow management for Claude Code"
         },
         {
             "name": "zazen",
@@ -35,28 +35,12 @@
             "description": "Zazen (座禅) - Principles for writing code with focus and clarity"
         },
         {
-            "name": "semantic-docstrings",
+            "name": "gradient",
             "source": {
                 "source": "url",
-                "url": "https://github.com/daviguides/semantic-docstrings.git"
+                "url": "https://github.com/daviguides/gradient.git"
             },
-            "description": "Semantic docstrings plugin for enhanced code documentation"
-        },
-        {
-            "name": "ymd-spec",
-            "source": {
-                "source": "url",
-                "url": "https://github.com/daviguides/ymd-spec.git"
-            },
-            "description": "YMD/PMD format specification for structured, modular AI prompts"
-        },
-        {
-            "name": "scaffold",
-            "source": {
-                "source": "url",
-                "url": "https://github.com/daviguides/product-scaffold.git"
-            },
-            "description": "Provides standards and automation for product documentation across the entire product lifecycle"
+            "description": "A proposal for a layered context architecture"
         },
         {
             "name": "probe",
@@ -73,22 +57,6 @@
                 "url": "https://github.com/daviguides/synthesis.git"
             },
             "description": "Multi-research comparison and synthesis tool - compares N Probe researches and generates consolidated decision synthesis"
-        },
-        {
-            "name": "ymd-py",
-            "source": {
-                "source": "url",
-                "url": "https://github.com/daviguides/ymd-py.git"
-            },
-            "description": "Python integration guide for YMD/PMD formats - comprehensive documentation, patterns, and tools for using ymd-prompt library"
-        },
-        {
-            "name": "dao",
-            "source": {
-                "source": "url",
-                "url": "https://github.com/daviguides/dao.git"
-            },
-            "description": "The natural way of task execution - Daoist workflow management for Claude Code"
         }
     ]
 }
