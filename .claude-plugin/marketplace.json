@@ -57,6 +57,22 @@
                 "url": "https://github.com/daviguides/synthesis.git"
             },
             "description": "Multi-research comparison and synthesis tool - compares N Probe researches and generates consolidated decision synthesis"
+        },
+        {
+            "name": "shodo",
+            "source": {
+                "source": "url",
+                "url": "https://github.com/daviguides/shodo.git"
+            },
+            "description": "Shodō (書道) - The Way of Python Calligraphy"
+        },
+        {
+            "name": "kinhin",
+            "source": {
+                "source": "url",
+                "url": "https://github.com/daviguides/kinhin.git"
+            },
+            "description": "Kinhin (経行) - Walking Meditation for TDD"
         }
     ]
 }
