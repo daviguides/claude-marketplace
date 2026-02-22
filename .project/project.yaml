@@ -1,0 +1,5 @@
+project:
+  name: claude-marketplace
+  type: standalone
+  docs_root: ./docs
+  owner: daviguides
