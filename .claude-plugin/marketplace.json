@@ -73,6 +73,14 @@
                 "url": "https://github.com/daviguides/kinhin.git"
             },
             "description": "Kinhin (経行) - Walking Meditation for TDD"
+        },
+        {
+            "name": "consult",
+            "source": {
+                "source": "url",
+                "url": "https://github.com/daviguides/consult.git"
+            },
+            "description": "Second-opinion consultations across models and CLI harnesses"
         }
     ]
 }
