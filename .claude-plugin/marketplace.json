@@ -81,6 +81,14 @@
                 "url": "https://github.com/daviguides/consult.git"
             },
             "description": "Second-opinion consultations across models and CLI harnesses"
+        },
+        {
+            "name": "forge",
+            "source": {
+                "source": "url",
+                "url": "https://github.com/daviguides/forge.git"
+            },
+            "description": "Product design pipeline — from concept to deployed landing page via multi-model consultation"
         }
     ]
 }
