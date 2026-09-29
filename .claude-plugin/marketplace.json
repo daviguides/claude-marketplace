@@ -88,7 +88,23 @@
                 "source": "url",
                 "url": "https://github.com/daviguides/forge.git"
             },
-            "description": "Product design pipeline — from concept to deployed landing page via multi-model consultation"
+            "description": "Product design pipeline, from concept to deployed landing page via multi-model consultation"
+        },
+        {
+            "name": "pragma",
+            "source": {
+                "source": "url",
+                "url": "https://github.com/daviguides/pragma.git"
+            },
+            "description": "Operational discipline for Claude Code: delegation, communication, persistence, and recommendation hygiene"
+        },
+        {
+            "name": "memo",
+            "source": {
+                "source": "url",
+                "url": "https://github.com/daviguides/memo.git"
+            },
+            "description": "Session artifact management: logs, contexts, handoffs, and meta-sessions"
         }
     ]
 }

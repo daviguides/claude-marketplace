@@ -47,6 +47,55 @@ After installation, the plugin provides custom commands and agents focused on Py
 
 ---
 
+## Pragma
+
+### Description
+Operational discipline for Claude Code. Eliminates recurring operational mistakes: wrong agent types, lost context in delegation, AI tells in drafts, misuse of memory, and wasted user attention.
+
+### Principles
+- Delegation: right agent type, full context transfer, file isolation
+- Communication: no AI tells (no em-dash), user decisions only, Slack-ready HTML
+- Persistence: project knowledge base, not Claude memory
+- Anti-Waste: always recommend, execute don't narrate
+- User Idiom: reading conversational habits correctly
+
+### Installation
+```bash
+/plugin install pragma@daviguides
+```
+
+### Repository
+[github.com/daviguides/pragma](https://github.com/daviguides/pragma)
+
+### Usage
+Load with `/pragma:load` or include in system prompt via `gradient compile pragma`.
+
+---
+
+## Memo
+
+### Description
+Session artifact management for Claude Code. Handles session logs, standing contexts, handoff prompts, and meta-session coordination.
+
+### Artifacts
+- Session logs: structured record with metadata header and standard sections
+- Contexts: durable insights that outlive sessions (methods, decisions with evidence)
+- Next-session prompts: handoff with rational, pending tasks, @paths
+- Meta-session prompts: coordinator role for non-implementing strategic sessions
+
+### Installation
+```bash
+/plugin install memo@daviguides
+```
+
+### Repository
+[github.com/daviguides/memo](https://github.com/daviguides/memo)
+
+### Usage
+Skills: `/memo:save-log`, `/memo:read-previous`, `/memo:handoff`, `/memo:save-context`. Load specs with `/memo:load`.
+
+---
+
 ## Plugin Management
 
 ### List installed plugins

@@ -36,6 +36,30 @@ Python development following Zen of Python principles and best practices.
 
 ---
 
+### Pragma
+Operational discipline for Claude Code: delegation, communication, persistence, and recommendation hygiene.
+
+**Install:**
+```bash
+/plugin install pragma@daviguides
+```
+
+**Repository:** [daviguides/pragma](https://github.com/daviguides/pragma)
+
+---
+
+### Memo
+Session artifact management: logs, contexts, handoffs, and meta-sessions.
+
+**Install:**
+```bash
+/plugin install memo@daviguides
+```
+
+**Repository:** [daviguides/memo](https://github.com/daviguides/memo)
+
+---
+
 ## 🚀 Quick Start
 
 1. **Add the marketplace:**
