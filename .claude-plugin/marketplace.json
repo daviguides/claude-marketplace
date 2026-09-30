@@ -105,6 +105,14 @@
                 "url": "https://github.com/daviguides/memo.git"
             },
             "description": "Session artifact management: logs, contexts, handoffs, and meta-sessions"
+        },
+        {
+            "name": "fala",
+            "source": {
+                "source": "url",
+                "url": "https://github.com/daviguides/fala.git"
+            },
+            "description": "Multi-channel communication drafting: WhatsApp, Slack, email with complete HTML templates and copy buttons"
         }
     ]
 }

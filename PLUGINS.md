@@ -96,6 +96,29 @@ Skills: `/memo:save-log`, `/memo:read-previous`, `/memo:handoff`, `/memo:save-co
 
 ---
 
+## Fala
+
+### Description
+Multi-channel communication drafting for Claude Code. Detects the target channel (WhatsApp, Slack, email) and produces a local HTML file with complete template, copy button, and text in the channel's native format. No AI tells, no em-dashes, only user decisions.
+
+### Channels
+- **WhatsApp**: Plain text copy from hidden textarea (`*bold*`, `•` bullets)
+- **Slack**: Rich text copy from rendered HTML (`<b>`, `<br><br>`, `<ul><li>`)
+- **Email**: Inline styles, table layout, Gmail-compatible
+
+### Installation
+```bash
+/plugin install fala@daviguides
+```
+
+### Repository
+[github.com/daviguides/fala](https://github.com/daviguides/fala)
+
+### Usage
+Load with `/fala:load`. Triggers automatically when user says "send via WhatsApp", "copy for Slack", "email to", etc.
+
+---
+
 ## Plugin Management
 
 ### List installed plugins

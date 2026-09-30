@@ -60,6 +60,18 @@ Session artifact management: logs, contexts, handoffs, and meta-sessions.
 
 ---
 
+### Fala
+Multi-channel communication drafting: WhatsApp, Slack, email with complete HTML templates and copy buttons.
+
+**Install:**
+```bash
+/plugin install fala@daviguides
+```
+
+**Repository:** [daviguides/fala](https://github.com/daviguides/fala)
+
+---
+
 ## 🚀 Quick Start
 
 1. **Add the marketplace:**
