@@ -121,6 +121,14 @@
                 "url": "https://github.com/daviguides/baliza.git"
             },
             "description": "Security review modules by language, surface and framework, selected deterministically by detect.yaml"
+        },
+        {
+            "name": "tools",
+            "source": {
+                "source": "url",
+                "url": "https://github.com/daviguides/tools.git"
+            },
+            "description": "Skills for CLI tools: usage (what, why, how) and safe agent runs. First tool: zen-review"
         }
     ]
 }

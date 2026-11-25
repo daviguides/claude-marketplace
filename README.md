@@ -72,6 +72,18 @@ Multi-channel communication drafting: WhatsApp, Slack, email with complete HTML 
 
 ---
 
+### Tools
+Skills for CLI tools: `/tools:<cli> usage` explains the tool, `/tools:<cli> run` runs it under safe agent rules. First tool: zen-review.
+
+**Install:**
+```bash
+/plugin install tools@daviguides
+```
+
+**Repository:** [daviguides/tools](https://github.com/daviguides/tools)
+
+---
+
 ## 🚀 Quick Start
 
 1. **Add the marketplace:**

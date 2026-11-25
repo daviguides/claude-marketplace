@@ -119,6 +119,27 @@ Load with `/fala:load`. Triggers automatically when user says "send via WhatsApp
 
 ---
 
+## Tools
+
+### Description
+One skill per CLI tool, so a session gets what the tool is, why it exists and how to use it without searching. `usage` executes nothing; `run` loads usage, then runs the tool under its run spec.
+
+### Skills
+- **zen-review**: multi-reviewer code review against zazen + shodo standards. `run` stores the YAML and never posts.
+
+### Installation
+```bash
+/plugin install tools@daviguides
+```
+
+### Repository
+[github.com/daviguides/tools](https://github.com/daviguides/tools)
+
+### Usage
+`/tools:zen-review usage`, `/tools:zen-review run pr:123 -r owner/repo --profile production`.
+
+---
+
 ## Plugin Management
 
 ### List installed plugins
